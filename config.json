@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6285892439939@s.whatsapp.net"],
+  "ownerName": ["Marvel Official"],
+  "botName": "MARVEL BOTZ",
+  "sessionName": "LatinaQr",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
